@@ -1,0 +1,6 @@
+# Exercise-Detection-Mediapipe
+Contains Different exercise detection models:
+
+1) Squat Counter
+2) Front Squat Counter
+3) Powerlifting
